@@ -10,4 +10,4 @@ Hasil eksplorasi desain **Spanduk / Banner** untuk tugas kuliah. Dirancang siap 
 ![Preview Desain](100 x 80 (2 lmb)DESA SEPABATU WASPADA.jpg)
 
 ---
-*Dibuat oleh Daeng Insan — Universitas Sulawesi Barat*
+*Dibuat oleh M. Saputra Mandala — Universitas Sulawesi Barat*
