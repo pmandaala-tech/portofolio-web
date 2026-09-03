@@ -2,11 +2,11 @@
 
 Hasil eksplorasi desain **Spanduk / Banner** untuk tugas kuliah. Dirancang siap cetak (*print-ready*) menggunakan mode **CMYK**, resolusi **300 DPI**, dan *bleed* presisi sesuai standar produksi percetakan. 
 
-🛠️ **Tools:** CorelDRAW
+**Tools:** CorelDRAW
 
 ---
 
-## 🖼️ Hasil Desain
+## Hasil Desain
 
 ![Desain 1](100%20x%2080%20(2%20lmb)DESA%20SEPABATU%20WASPADA.jpg)
 
